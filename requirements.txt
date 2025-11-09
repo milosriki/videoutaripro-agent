@@ -1,0 +1,36 @@
+# VideoUtariPro Agent - Requirements
+# AI-Powered Video Marketing Automation for Dubai Market
+
+# Core Dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Video Processing
+moviepy>=1.0.3
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Google AI Integration
+google-generativeai>=0.3.0
+google-cloud-videointelligence>=2.11.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+json5>=0.9.0
+
+# API Integrations
+aiohttp>=3.8.0
+httpx>=0.24.0
+
+# Utilities
+tqdm>=4.65.0
+colorama>=0.4.6
+python-dateutil>=2.8.0
+
+# Optional Enhancements
+# google-cloud-storage>=2.10.0  # For advanced cloud storage
+# boto3>=1.28.0                 # For AWS integration
+# azure-storage-blob>=12.17.0   # For Azure integration
